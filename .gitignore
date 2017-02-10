@@ -12,6 +12,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+bin/
 env/
 build/
 develop-eggs/
@@ -22,6 +23,7 @@ eggs/
 lib/
 lib64/
 parts/
+share/
 sdist/
 var/
 wheels/
